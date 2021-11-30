@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        // "jinja.html": ".jinja, .jinja2, .j2",
+        // "*.html": "jinja-html",
+
+        "**/*.html": "html",
+        "**/templates/**/*.html": "django-html",
+        "**/templates/**/*": "django-txt",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+
+    
+    }
+    
+}

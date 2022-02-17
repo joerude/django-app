@@ -2,7 +2,8 @@
 
 
 ## Download packages of virtual environment using command: 
-**pip install -r requirements.txt** in your shell
+**pip install -r requirements.txt**
+in your shell
 
 
 
